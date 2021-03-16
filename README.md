@@ -1,0 +1,2 @@
+# winRainBow
+Destructive trojan :)
